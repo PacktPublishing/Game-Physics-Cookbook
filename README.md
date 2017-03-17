@@ -1,4 +1,4 @@
-#Game Physics Cookbook
+# Game Physics Cookbook
 
 This is the code repository for [Game Physics Cookbook](https://www.packtpub.com/game-development/game-physics-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787123663), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 ##Instructions and Navigations
@@ -24,11 +24,13 @@ about programming. Having a basic understanding of calculus and linear algebra w
 useful, but is not required. You will need a Windows PC (preferably with Windows 7 or higher)
 with Microsoft Visual Studio 2015 installed on it.
 
-##Related Products
+## Related books
+
 * [Learning Game Physics with Bullet Physics and OpenGL](https://www.packtpub.com/game-development/learning-game-physics-bullet-physics-and-opengl?utm_source=github&utm_medium=repository&utm_campaign=9781783281879)
 
 * [C++ Game Development Cookbook](https://www.packtpub.com/game-development/c-game-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785882722)
 
 * [GameMaker Cookbook](https://www.packtpub.com/game-development/gamemaker-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781784399849)
-###Suggestions and Feedback
+
+### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
