@@ -2,6 +2,9 @@
 
 This is the code repository for [Game Physics Cookbook](https://www.packtpub.com/game-development/game-physics-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787123663), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
+Physics are really important for game programmers who want to add realism and functionality to their games. Collision detection especially is a problem that affects all game developers, regardless of the platform, engine, or toolkit they use.
+
+This book will teach you the concepts and formulas behind collision detection. You will also be taught how to build a simple physics engine, where Rigid Body physics is the main focus, and get to learn about intersection algorithms for primitive shapes.
 
 ## Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
